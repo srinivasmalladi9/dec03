@@ -1,2 +1,2 @@
 # dec03
-This is crreated on dec 03 for practice
+This is created on dec 03 for practice
